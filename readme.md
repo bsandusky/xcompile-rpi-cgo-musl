@@ -1,4 +1,4 @@
-#Instructions to cross-compile from macOS High Sierra to Raspberry Pi 3 Model B armv7l against musl libc
+# Instructions to cross-compile from macOS High Sierra to Raspberry Pi 3 Model B armv7l against musl libc
 
 1. Run `brew install FiloSottile/musl-cross/musl-cross --without-x86_64 --with-arm-hf`
 
